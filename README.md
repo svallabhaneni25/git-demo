@@ -2,9 +2,5 @@
 
 This is the first file in this repo.
 
-## Editing now
-Changes made
-
-### Making more changes
-
-Changes made
+## Website Contents
+1) Index.html
